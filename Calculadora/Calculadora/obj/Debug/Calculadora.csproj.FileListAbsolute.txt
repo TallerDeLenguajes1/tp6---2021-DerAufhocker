@@ -1,0 +1,10 @@
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\taller1\repositorio\tp6---2021-DerAufhocker\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
